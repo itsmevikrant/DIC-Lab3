@@ -1,0 +1,47 @@
+What’s Going On in This Graph? | April 10, 2018
+Updated: April 12, 2018
+Students
+1. These four graphs are from a group of fifty graphs of Billboard Top 100 artists who were the most watched on YouTube between January 2016 and April 2017. The graphs for Rihanna, Drake, Taylor Swift and Luke Bryan originally appeared elsewhere on NYTimes.com. On Thursday afternoon, April 12, we will reveal the original article.
+After looking closely at the graphs above (or at this full-size image), think about these three questions:
+• What do you notice?
+Share what you are noticing directly in the graphs. What may these details imply?
+• What do you wonder?
+What are you curious about that comes from what you notice in the graph?
+• What might be going on in these graphs?
+What claims can you make based on what you notice? Use evidence in the graphs to support your claims. Take care to distinguish opinions from claims.
+The questions are intended to build on one another, so try to answer them in order. Start with “I notice,” then “I wonder,” and end with “The story these graphs are telling is ….”
+2. Next, join the conversation by clicking on the comment button and posting in the box that opens on the right. (Students 13 and older are invited to comment, although teachers of younger students are welcome to post what their students have to say.)
+3. After you have posted, try reading back to see what others have said, then respond to someone else by posting another comment. Use the “Reply” button or the @ symbol to address that student directly.
+On Tuesday, April 10, our collaborator, the American Statistical Association, will facilitate a discussion from 9 a.m. to 2 p.m. Eastern Time by paraphrasing comments and linking to responses to help students’ understanding go deeper. You might use their responses as models for your own.
+4. On Thursday afternoon, April 12, we will reveal at the bottom of this post more information about the graphs. How does the original New York Times article and the moderators’ additional questions help you see these graphs differently? You can incorporate the statistical terms defined in Stat Nuggets in your response.
+_________
+More?
+• Read our introductory post, which includes information about using the “Notice and Wonder” teaching strategy. • Go to the A.S.A. K-12 website, which includes This is Statistics, resources, professional development, student competitions, curriculum, courses and careers.
+_________
+Updated: April 12, 2018
+Who do you think is the most popular musical artist in the U. S.? Your response, I bet, will be tempered by what you and your friends think and not take into account the entire country. For a more national perspective, the weekly Billboard 100 lists current songs across all genres, ranked by radio audiences, sales data and streaming activity. But, that does not consider how popularity varies around the country. The four maps that we showed came from a group of fifty in the New York Times article “What Music Do Americans Love the Most? 50 Detailed Fan Maps” and were published on August 7, 2017. The maps set out “the contours of music fandom and culture in the United States.” From these heatmaps (maps in which data values are represented by a range of colors), you can pinpoint the relative popularity of artists down to small U. S. regions.
+The article determined “most loved” music by comparing YouTube viewings by artist. How were the artists chosen, the data calculated, and the data shown? First, the top fifty artists were identified from the spring 2017 Billboard Top 100 list, which is not as current as we may have liked. We selected Rihanna (#2 on Billboard), Drake (#13), Taylor Swift (#18), and Luke Bryan (#42) to have some diversity of type of music and region of the country where they were most popular. Then, using YouTube’s geocoded streaming data for the period January 2016 through April 2017, the number of times each of these artists was streamed was determined for each small region. This number was converted to a proportion by dividing the number of the artists’ streamings by the total number of viewings for all fifty artists. Finally, the proportions were color-coded from light pink representing the smallest proportions to dark purple representing the greatest proportions. As the article states, “If one part of the map is lighter, it doesn’t mean people there weren’t watching the artist’s videos; it just means fans were more likely to listen to a variety of other artists.”
+Lipi from Madison, Ga., summed up the graphs rather concisely. “These graphs show the level of popularity for Billboard singers in all fifty states. It shows that Taylor Swift and Luke Bryan are well-liked in almost all fifty states. However, Drake is popular in the Southwest, while Rihanna is more popular in the Southeast. I wonder what attracts these demographics to certain kinds of music. I notice that people are interested in many different kinds of music.”
+Here are some questions you may want to think about critically.
+• Rihanna is #2 on Billboard, but she has very few purple regions. Thinking about how popularity is calculated and where she is popular, how could this be true? Similarly, Luke Bryan, who is only #42 on Billboard, seems relatively popular all over the country. How could this be true?
+• In the article, notice that some maps are mostly light pink. What may this imply about the map’s artist? Also, no artist has a mostly purple map. Why do you think this is?
+• Rick of California says that some of his favorite rock ‘n roll groups, like Led Zeppelin, Rolling Stones and AC/DC, are missing from the list, so rock n’ roll, as we know it, has ended. Can we claim this from the graphs?
+• You may wonder why some artists have isolated areas where they are very popular. Pick an artist with an isolated area of popularity and give your hypothesis why the artist may be so popular there.
+• Of the fifty artists in the article, who is your favorite? Is this artist popular in the part of the country where you live? Can you predict a part of the country where the artist is very popular? Does the map support your prediction?
+Below in Stat Nuggets, we define and explain heat map, number vs. amount, and absolute value vs. relative value. Look into the archives to see past Stat Nuggets terms.
+Thank you for participating in “What’s Going On in This Graph?”, which is intended to have you think more critically about graphs and the underlying data in a news story. Critical thinking is an essential element of statistics, the science of learning from data. Data visualizations, like this graph, are an important part of statistics. They help us to understand and communicate about data.
+Keep noticing and wondering. Come up with conjectures based on the maps. We continue to welcome more responses.
+See you next month on Tuesday, May 8, for our last “What’s Going On in This Graph?” for this school year.
+_________
+Stat Nuggets for “What Music Do Americans Love the Most? 50 Detailed Fan Maps?”
+HEAT MAP
+A map can be a graphic representation when the map displays data for each geographic region. A map is a heat map when ranges of data values are represented by colors.
+In “Music Americans Love,” the map visually displays the relative popularity of artists by U. S. county. An artist’s relative popularity by county ranges from light pink (least popular among the fifty artists in the article) to dark purple (most popular).
+NUMBER vs. AMOUNT
+Number is used with things that can be counted, like number of people who attend a concert. Amount is used if things can’t be counted but are measured, like amount of concert goers’ enthusiasm.
+In “Music Americans Love,” we say “the number of times Rihanna is streamed on YouTube,” since we can count the number of YouTube viewings for Rihanna and use this number to calculate the proportion of Rihanna viewings among all top fifty artists. Alternatively, we say “the amount of interest in Rihanna in the Southeast is greater than in the rest of the country,” since we cannot count interest.
+ACTUAL VALUE vs. RELATIVE VALUE 
+An actual value is the observed number of items in a group with some characteristic. A relative value is the observed number of items in a group with some characteristic divided by the total number of items in the group.
+In “Music Americans Love,” artists’ relative popularity in a county is the variable. It is calculated for each county by dividing the number of YouTube viewings for a particular artist by the total number of YouTube viewings of Billboard top 50 artists. For Rihanna, we know that her relative popularity is greatest in areas like the Mississippi Delta and southwest Georgia because these regions are darkest purple. Most of the other artists have fewer viewings there. From the map, we do not know where her actual popularity (actual number of YouTube viewings) is greatest.
+_________
+The graphs for “What’s Going On in This Graph?” are selected in partnership with Sharon Hessney, the Statistics Content Director at Mass Insight Education. In addition, Ms. Hessney and James Bush, Professor of Mathematics at Waynesburg University in Pennsylvania, moderated the Tuesday comments and wrote this week’s “reveal” and Stat Nuggets section.
